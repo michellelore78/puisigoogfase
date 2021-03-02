@@ -1,0 +1,5 @@
+baseURL = "https://poemssakuralife45.vercel.app"
+languageCode = "en-us"
+title = "Famous Poems in Life"
+theme = "hugo-theme-minos"
+
